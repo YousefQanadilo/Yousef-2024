@@ -1,0 +1,1 @@
+This was my first attempt in making a chess board, the chess board contains peices, ideally i wanted to have it where when i click a piece, it becomes selected and I could move it wherever i clicked. However this is my first time using JFrame and JPanelalong with any other GUI classes so it did not work as intended
